@@ -1,1 +1,1 @@
-# TicTacToe - Play tictactoe using one file and any compiler 
+# TicTacToe - 2 player tictactoe played in any compiler
